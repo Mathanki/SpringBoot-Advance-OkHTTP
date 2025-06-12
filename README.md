@@ -1,2 +1,4 @@
 # SpringBoot-Advance-OkHTTP
- Create HTTP Requests Using OkHttp in Java
+
+ Create a Rest Client using OkHttp library. 
+ Create a Rest Client for GET, POST, PUT and DELETE HTTP request in Java.
